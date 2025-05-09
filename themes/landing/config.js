@@ -1,10 +1,10 @@
 const CONFIG = {
 
   LANDING_HEADER_BUTTON_1_TITLE: 'Github开源',
-  LANDING_HEADER_BUTTON_1_URL: ''https://passer1024.xyz',
+  LANDING_HEADER_BUTTON_1_URL: 'https://passer1024.xyz',
 
   LANDING_HEADER_BUTTON_2_TITLE: '作者博客',
-  LANDING_HEADER_BUTTON_2_URL: ''https://passer1024.xyz',
+  LANDING_HEADER_BUTTON_2_URL: 'https://passer1024.xyz',
 
   // 首页大图英雄板块
   LANDING_HERO_TITLE_1: 'NotionNext',
